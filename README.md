@@ -6,7 +6,7 @@
     <img src="readme/banner.png" alt="Banner">
   </a>
   <h1 align="center">My Plants</h1>
-  <h5 align="center">Mobile App</h5>
+  <h5 align="center">Mobile App</h5>d
   <p align="center">
     <a href="https://github.com/benmotyka/my-plants_app/issues">Report Bug</a>
     ·
