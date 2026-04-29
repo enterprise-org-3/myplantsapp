@@ -2,7 +2,10 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/benmotyka/my-plants_app">
+  <a href="https://github.com/benmotyka/my-plants_app">branches_to_run:
+      - 'js-dyn*'
+    branches_to_exclude:
+      - 'main'
     <img src="readme/banner.png" alt="Banner">
   </a>
   <h1 align="center">My Plants</h1>
