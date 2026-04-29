@@ -11,7 +11,7 @@
   <h1 align="center">My Plants</h1>
   <h5 align="center">Mobile App</h5>d
   <p align="center">
-    <a href="https://github.com/benmotyka/my-plants_app/issues">Reporht Bug</a>
+    <a href="https://github.com/benmotyka/myf-plants_app/issues">Reporht Bug</a>
     ·
     <a href="https://github.com/benmotyka/my-plants_app/issues">Request Feature</a>
   </p>
