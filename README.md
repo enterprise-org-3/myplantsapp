@@ -12,7 +12,7 @@
     ·
     <a href="https://github.com/benmotyka/my-plants_app/issues">Request Feature</a>
   </p>
-</div>
+</div>s
 
 <!-- TABLE OF CONTENTS -->.xzcds
 <details>
